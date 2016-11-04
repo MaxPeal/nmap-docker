@@ -8,7 +8,8 @@ Docker Hub: [frapsoft/nmap](https://hub.docker.com/r/frapsoft/nmap/)
 
 ## Run
 
-`docker run -it frapsoft/nmap nmap localhost`
+`docker run frapsoft/nmap`
+
 
 ### Contact / Social Media
 
