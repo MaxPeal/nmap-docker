@@ -1,5 +1,7 @@
 # nmap Docker
 
+[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/xxx.svg)](https://hub.docker.com/r/frapsoft/xxx/) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/xxx.svg)](https://hub.docker.com/r/frapsoft/xxx/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
 Docker Hub: [frapsoft/nmap](https://hub.docker.com/r/frapsoft/nmap/)
 
 ## Installation
