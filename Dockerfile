@@ -1,6 +1,6 @@
-FROM alpine
+FROM alpine:edge
 
-MAINTAINER Maik Ellerbrock (https://github.com/ellerbrock)
+MAINTAINER Max Peal (https://github.com/MaxPeal)
 
 RUN apk update && \
     apk add --no-cache nmap && \
